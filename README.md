@@ -1,2 +1,2 @@
-heavy-gear-tactics
+hg-tactics
 ==================
